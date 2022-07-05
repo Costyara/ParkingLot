@@ -1,0 +1,1 @@
+fun reverse(input: Int?) = input.toString().reversed().toIntOrNull() ?: -1

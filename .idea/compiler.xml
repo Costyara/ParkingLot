@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Parking_Lot.Parking_Lot-task-build-classes-java.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-build-classes-kotlin.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-build-reports-tests.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-build-test-results.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-build-tmp.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task-out.main" target="8" />
+      <module name="Parking_Lot.Parking_Lot-task.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-Allowance_for_constructors.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-copy___usage.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-equals___check.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-Generated_functions.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-Theory.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-toString___modification.main" target="8" />
+      <module name="Parking_Lot.Topics-Data_class-We_are_students.main" target="8" />
+      <module name="Parking_Lot.Topics-Inheritance-Constructing_a_hierarchy.main" target="8" />
+      <module name="Parking_Lot.Topics-Inheritance-Fix_bugs.main" target="8" />
+      <module name="Parking_Lot.Topics-Inheritance-Theory.main" target="8" />
+      <module name="Parking_Lot.Topics-Null_safety-Check_length.main" target="8" />
+      <module name="Parking_Lot.Topics-Null_safety-Elvis_throwing_exceptions.main" target="8" />
+      <module name="Parking_Lot.Topics-Null_safety-Safe_round.main" target="8" />
+      <module name="Parking_Lot.Topics-Null_safety-Theory.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Assign_null.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Line_length.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Mixed_nullable.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-NPE.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Null_or_not_null.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Nullable_variables.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Safe_call.main" target="8" />
+      <module name="Parking_Lot.Topics-Nullable_and_non-nullable_types-Theory.main" target="8" />
+      <module name="Parking_Lot.Topics-Overriding_functions-Fix_bugs.main" target="8" />
+      <module name="Parking_Lot.Topics-Overriding_functions-Theory.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Espresso.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Function_name.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Inheritance.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Latte.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Mochaccino.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Number_of_cups.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-Theory.main" target="8" />
+      <module name="Parking_Lot.Topics-toString__-User_Information.main" target="8" />
+      <module name="Parking_Lot.Topics-Type_system-Reverse_me_if_you_can.main" target="8" />
+      <module name="Parking_Lot.Topics-Type_system-String_or_Int.main" target="8" />
+      <module name="Parking_Lot.Topics-Type_system-Theory.main" target="8" />
+      <module name="Parking_Lot.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
